@@ -61,6 +61,7 @@
     };
 };
 
+
 / {
     trackball_listener {
         compatible = "zmk,input-listener";
